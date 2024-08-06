@@ -27,6 +27,17 @@ Getting started with MongoDB
 - MongoDB Compass (GUI for MongoDB)
 - MongoDB CLI (`mongo` shell)
 
+- Setting it normally 
+    a. Open Compass
+    b. Connect using compass manually
+    c. After connecting it, dont close it
+    d. Open vscode and go to mongodb extension you downloaded already
+    e.  On connections, click on local host with the leaf
+    f. If it turns green, it connected
+    g. Then right click on that localhost with a leaf
+    h. Click on launch mongodb shell 
+    i. After that, the terminal must open
+
 
 
 
