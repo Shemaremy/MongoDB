@@ -26,6 +26,8 @@
 
 2. use myDatabase: Switches to the database named myDatabase. If it doesn't exist, it will be created when data is inserted.
 
+3. db.createCollection("myCollection") : Creates a collection
+
 3. show collections: Displays all collections within the currently selected database.
 
 4. db.myCollection.insertOne({ name: "Alice", age: 25 }): Inserts a single document with name and age fields into the myCollection collection.
