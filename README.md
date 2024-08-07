@@ -4,7 +4,6 @@ Getting started with MongoDB
 
 
 
-
 # MongoDB Course Outline
 
 ## Module 1: Introduction to MongoDB
